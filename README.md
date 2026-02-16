@@ -12,6 +12,13 @@ I work with SENAI in high-performance technical and professional competition tea
 - 🧩 Project developer in the field of additive manufacturing
 - 📐 Experienced with CAD software and 3D modeling tools
 
+## Currently learning
+
+<a href="https://git-scm.com">
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+</a>
+
+
 ## Contact
 <div> 
 <a href="https://instagram.com/tiagosbeghen" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
