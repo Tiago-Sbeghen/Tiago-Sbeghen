@@ -17,6 +17,13 @@ I work with SENAI in high-performance technical and professional competition tea
 <a href="https://git-scm.com">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50"/>
+</a>
+<a href="https://www.w3schools.com/css/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50"/>
+</a>
+
 
 
 ## Contact
