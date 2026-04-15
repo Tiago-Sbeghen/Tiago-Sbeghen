@@ -56,8 +56,8 @@ I work with SENAI in high-performance technical and professional competition tea
 
 <a href="https://www.mysql.com/">
 <img     
-    alt="JavaScript"
-    title="JavaScript" 
+    alt="MySQL"
+    title="MySQL" 
     width="60px" 
     style="padding-right: 10px;" 
   loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50"/>
