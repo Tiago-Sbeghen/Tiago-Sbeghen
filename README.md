@@ -14,6 +14,16 @@ I work with SENAI in high-performance technical and professional competition tea
 
 ## Currently learning
 
+<a href="https://www.java.com/">
+<img 
+    align="left"
+    alt="Java"
+    title="Java"
+    width="60px"
+    style="padding-right: 10px;"
+    loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" height="50"/>
+</a>
+
 <a href="https://git-scm.com">
 <img 
     align="left" 
@@ -62,6 +72,7 @@ I work with SENAI in high-performance technical and professional competition tea
     style="padding-right: 10px;" 
   loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50"/>
 </a>
+
 
 ## Contact
 <div> 
